@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mukaba
-- 👀 I’m interested in Software dev, Networking and Cybersec
-- 🌱 I’m currently learning Web Dev && ISC2 Cybersecurity courses
-- 💞️ I’m looking to collaborate on dope projects
-- 📫 How to reach me? 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+Latin&size=15&duration=6000&pause=1000&width=435&lines=Premature+optimization+is+the+root+of+all+evil;First%2C+solve+the+problem.;One+commit+at+a+time)](https://git.io/typing-svg)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukaba)](https://git.io/streak-stats)
 - Here is my linkedIn:
    >shorturl.at/MTXZ4
 
