@@ -1,15 +1,28 @@
-# Hi there! 👋 
+## Hi, I'm Jean-louis Mukaba 👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+Latin&size=15&duration=6000&pause=1000&width=435&lines=Premature+optimization+is+the+root+of+all+evil;First%2C+solve+the+problem.;One+commit+at+a+time)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
-## I'm a Developer and Tech enthusiast
+## I'm a Developer and Tech enthusiast <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50">
 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about Backend development
-- ⚡ Fun fact: I love playing pool
+```javascript
+const mukaba = {
+  lookingFor: "Front-end developer" || "Full-stack developer",
+  pronouns: ["him", "his"],
+  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
+  askMeAbout: [Software Development, Networking, Cyber_Security, Innovation],
+  challenge: "I am honing my JavaScript skills and picking up TypeScript",
+  funFacts: ['I have 4+ years of remote work experience with devs from all over the world', 
+  'always ready to share my skills', 'ready to work with dynamic and innovative teams']
+}
+```
+
+ 🌱 I’m currently honing my JavaScript skills and picking up TypeScript <br>
+ 👯 I am looking to collaborate with other software developer teams<br>
+ 🥅 2023 Goals: Learn more about Backend development <br>
+ ⚡ Fun fact: I am always ready to share my skills.
+
 ![line](./img/line.gif)
 
 ### Connect with me:
@@ -22,7 +35,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kitenge-mukaba-jean-louis-71a2441bb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kitenge-mukaba-jean-louis-71a2441bb#gh-dark-mode-only)
 &nbsp;&nbsp;
-[line](./img/line.gif)
 
 ### Languages and Tools:
 
