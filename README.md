@@ -20,7 +20,7 @@ const mukaba = {
 
  🌱 I’m currently honing my JavaScript skills and picking up TypeScript <br>
  👯 I am looking to collaborate with other software developer teams<br>
- 🥅 2023 Goals: Learn more about Backend development <br>
+ 🥅 2023 Goals: Learning more about project management <br>
  ⚡ Fun fact: I am always ready to share my skills.
 
 ![line](./img/line.gif)
