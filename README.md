@@ -4,7 +4,7 @@
 
 ![line](./img/line.gif)
 
-## I'm a Developer and Tech enthusiast <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50">
+## I'm an entrepreneur and Tech enthusiast <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50">
 
 ```javascript
 const mukaba = {
