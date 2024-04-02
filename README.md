@@ -10,16 +10,15 @@
 const mukaba = {
   lookingFor: "Front-end developer" || "Full-stack developer",
   pronouns: ["him", "his"],
-  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
-  askMeAbout: [Software Development, Networking, Cyber_Security, Innovation],
+  code: [JavaScript, HTML/CSS, Semantic UI, Tailwind CSS, Material UI],
+  askMeAbout: [Frontend Development, Networking, Cyber_Security, Innovation],
   challenge: "I am honing my JavaScript skills and picking up TypeScript",
   funFacts: ['I have 4+ years of remote work experience with devs from all over the world', 
   'always ready to share my skills', 'ready to work with dynamic and innovative teams']
 }
 ```
 
- 🌱 I’m currently honing my JavaScript skills and picking up TypeScript <br>
- 👯 I am looking to collaborate with other software developer teams<br>
+ 👯 I am looking to collaborate with other Devs teams<br>
  🥅 2023 Goals: Learning more about project management <br>
  ⚡ Fun fact: I am always ready to share my skills.
 
@@ -29,24 +28,13 @@ const mukaba = {
 
 [![jeanlouismukaba01@yahoo.com](./img/gmail.svg)](jeanlouismukaba01@yahoo.com)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/JeanlouisMukaba#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/JeanlouisMukaba#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/MukabaJeanlouis#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/MukabaJeanlouis#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kitenge-mukaba-jean-louis-71a2441bb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kitenge-mukaba-jean-louis-71a2441bb#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
-
-<br />
 <br />
 
 ![line](./img/line.gif)
